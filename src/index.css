@@ -1,0 +1,33 @@
+.bg-orange {
+  background-color: #fdbb2d;
+}
+
+.border-orange {
+  border-color: #fdbb2d;
+}
+
+.text-orange {
+  color: #fdbb2d;
+}
+
+.card {
+  background: rgba(255, 255, 255, 0.4);
+  padding: 1rem;
+}
+
+.card-header h3 {
+  margin: 0;
+}
+
+.btn.bg-orange {
+  background-color: #fdbb2d;
+  border-color: #fdbb2d;
+  color: #fff;
+}
+
+.btn.bg-orange:hover {
+  background-color: #f8a800; /* Slightly darker shade for hover effect */
+  border-color: #f8a800;
+  color: #fff;
+}
+

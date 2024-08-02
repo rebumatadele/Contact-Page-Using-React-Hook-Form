@@ -1,0 +1,8 @@
+React Hook Form
+- is a react library used for handling or working with forms
+- manage form data
+- validate form data
+- provide Visual feedback
+
+
+- Displaying Error Data
