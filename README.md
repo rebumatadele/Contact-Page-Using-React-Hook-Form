@@ -47,7 +47,7 @@ Description: Shows the form in a working state with valid inputs.
 
 ![Email Not Filled State](./screenshoots/email.png)
 
-![Email format](./screenshoots/Screenshot%202024-08-02%20125431.png.png)
+![Email format](./screenshoots/Screenshot%202024-08-02%20125431.png)
 Description: Shows the form with error messages displayed.
 
 
